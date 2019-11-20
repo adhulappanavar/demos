@@ -1,0 +1,19 @@
+{
+  "generator-jhipster": {
+    "appsFolders": [
+      "invoice",
+      "notification",
+      "store"
+    ],
+    "directoryPath": "../",
+    "serviceDiscoveryType": "eureka",
+    "jwtSecretKey": "M2VjNzI3MDRjYjYxMDI2MDhiZjljNTUzYTk1MGFjM2VhYWE4MjRlMWExNDg1MWY5M2QzYmVkYmI4YWI1Nzc1ZDY2YWYwYjY4OWQxOTYzZjliMzFhMWJlZDRhNTk0ODBmNWZhYQ==",
+    "dockerRepositoryName": "adhulappanavar",
+    "dockerPushCommand": "docker push",
+    "kubernetesNamespace": "ecomm",
+    "kubernetesServiceType": "LoadBalancer",
+    "ingressDomain": "",
+    "monitoring": "elk",
+    "istio": false
+  }
+}

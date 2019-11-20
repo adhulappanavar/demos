@@ -1,0 +1,11 @@
+id;placed_date;status;code;invoice_id;customer_id
+1;2019-11-18T16:39:23;COMPLETED;invoice Outdoors New York;94023;1
+2;2019-11-18T13:50:56;COMPLETED;Station;54561;2
+3;2019-11-18T13:22:34;COMPLETED;black;6936;3
+4;2019-11-19T03:55:17;CANCELLED;Generic;68300;4
+5;2019-11-19T00:59:39;PENDING;quantifying Garden;81446;5
+6;2019-11-19T02:48:53;PENDING;Rupiah Personal Loan Account HTTP;73507;6
+7;2019-11-18T23:02:27;COMPLETED;multi-byte Producer;41261;7
+8;2019-11-19T06:00:25;PENDING;Infrastructure SSL bandwidth;75087;8
+9;2019-11-18T15:18:50;PENDING;navigating encoding;89552;9
+10;2019-11-19T06:40:18;PENDING;time-frame Quality;95060;10
